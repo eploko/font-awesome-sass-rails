@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["sst.dreams@gmail.com"]
   s.homepage    = "https://github.com/littlebtc/font-awesome-sass-rails"
   s.summary     = %q{Font Awesome in SASS for Rails}
-  s.description = %q{Font Awesome, SASS version, with assets pipeline, for Rails 3.1+}
+  s.description = %q{Font Awesome, SASS version, with assets pipeline, for Rails 4.0+}
 
   s.rubyforge_project = "font-awesome-sass-rails"
 
